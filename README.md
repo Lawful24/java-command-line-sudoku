@@ -11,7 +11,7 @@ Create a command-line Sudoku game with the language of your choosing.
 - Download the project as a .zip
 - Unzip the contents of the archive
 - Open a terminal in the folder where you unzipped the archive file to
-- Enter `java -jar ./target/Sudoku-version.jar` (see [Releases]() for current version number)
+- Enter `java -jar ./target/Sudoku-version.jar` (see [Releases](https://github.com/Lawful24/java-command-line-sudoku/releases) for current version number)
 - Play the game!
 
 ## Build instructions
