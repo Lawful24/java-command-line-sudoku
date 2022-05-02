@@ -1,0 +1,12 @@
+Validator.class
+Main.class
+Step.class
+ReplayManagerSingleton.class
+Board.class
+Coordinate.class
+ReplayManagerSingleton$1.class
+UserInterface$Difficulty.class
+UserInterface.class
+Game.class
+BoardFactory.class
+Replay.class
